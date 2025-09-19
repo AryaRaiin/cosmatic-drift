@@ -160,7 +160,7 @@ marking-HandTwistingRightMoth-twisting = Twisted Scar (Right Hand)
 
 # Hair
 
-marking-MothHairHighPonytail = High Ponytail
+marking-MothHairHighPonytail = Curly Ponytail
 marking-MothHairShortCut = Short Cut
 marking-MothHairShortMessy = Short Messy
 marking-MothHairSidePonytail = Side Ponytail
